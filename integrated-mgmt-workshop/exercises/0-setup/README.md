@@ -3,7 +3,7 @@ Integrated Management Workshop: Configuring the Lab Environment
 
 Objective
 ---------
-The objective of this exercise is to setup the lab environemnt. This exercise will require you to launch (5) playbooks. The playbooks accomplish the following:
+The objective of this exercise is to setup the lab environment. This exercise will require you to launch (5) playbooks. The playbooks accomplish the following:
 
 -   Setup and configure Satellite with the proper lifecycle environments, content views, activation keys.
 -   Populate Ansible Tower with an inventory source, add templates, as well as an additional project.
